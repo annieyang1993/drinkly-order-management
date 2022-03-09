@@ -20,6 +20,7 @@ Features
 4. Stores are able to view daily summaries including net profit and number of orders. 
 
 Summary Data:
+
 <img width="336" alt="summary" src="https://user-images.githubusercontent.com/82074442/157369967-07097e97-c224-4b5f-a7b6-a43908e2e38a.png">
 
 
